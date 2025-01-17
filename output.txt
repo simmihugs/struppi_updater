@@ -1,0 +1,1948 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<programmdaten generierungsdatum="2024-12-03T11:07:15"
+                                                                  xmlns="http://struppi.tv/xsd/" xmlns:ns="http://struppi.tv/xsd/" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+                                                                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                                                                  xsi:schemaLocation="http://struppi.tv/xsd/StruPPi_1.0.4.xsd">
+	<sender sender_ID="36931" sendername="HDPLUS" sprache="de"  vps="false">
+		<url link="https://www.hd-plus.de/ "/>
+		<ablauf ablaufende="2024-12-27T23:59:00" ablaufstart="2024-12-21T00:00:00" ablauftyp="ablauf">
+			<sendung sendung_id="5083532">
+				<termin ende="2024-12-21T08:00:00" nettolaenge="480" reihenfolge="1" start="2024-12-21T00:00:00" programmtag="2024-12-21" termin_id="5083532" termintyp="neu">
+				</termin>
+				<titel termintitel="Nachtschleife">
+				</titel>
+				<infos>
+					<klassifizierung formatgruppe ="Sonstiges">
+					</klassifizierung>
+				</infos>
+				<text textart="Beschreibung">Erleben Sie mit UHD1 by HD+ die Faszination von UHD. GenieSSen Sie ab 00:00 Uhr die intensive Farbenpracht eines Feuerwerks oder auch das beruhigende Knistern zuengelnder Flammen eines Kaminfeuers in beeindruckender UHD-Qualitaet.</text>
+			</sendung>
+			<sendung sendung_id="5083832">
+				<termin ende="2024-12-21T09:10:00" nettolaenge="70" reihenfolge="2" start="2024-12-21T08:00:00" programmtag="2024-12-21" termin_id="5083832" termintyp="neu">
+				</termin>
+				<titel termintitel="Free Fenster">
+				</titel>
+				<infos>
+					<klassifizierung formatgruppe ="Sonstiges">
+					</klassifizierung>
+				</infos>
+				<text textart="Beschreibung">Erleben Sie mit UHD1 by Astra / HD+ die Faszination beeindruckender Filme in brillanter UHD-Qualitaet aus den Bereichen Doku, Lifestyle und Action.</text>
+			</sendung>
+			<sendung sendung_id="5083833">
+				<termin ende="2024-12-21T12:25:00" nettolaenge="195" reihenfolge="3" start="2024-12-21T09:10:00" programmtag="2024-12-21" termin_id="5083833" termintyp="neu">
+				</termin>
+				<titel termintitel="Sendepause">
+				</titel>
+				<infos>
+					<klassifizierung formatgruppe ="Sonstiges">
+					</klassifizierung>
+				</infos>
+				<text textart="Beschreibung">Bald geht es hier weiter mit den Highlights der Sender ProSieben, SAT.1, Kabel Eins, ProSieben MAXX und Kabel Eins Doku in bester UHD-Qualitaet.
+Naehere Information unter prosiebensat1.de/uhd</text>
+			</sendung>
+			<sendung sendung_id="5083834">
+				<termin ende="2024-12-21T17:45:00" nettolaenge="320" reihenfolge="4" start="2024-12-21T12:25:00" programmtag="2024-12-21" termin_id="5083834" termintyp="neu">
+				</termin>
+				<titel termintitel="Free Fenster">
+				</titel>
+				<infos>
+					<klassifizierung formatgruppe ="Sonstiges">
+					</klassifizierung>
+				</infos>
+				<text textart="Beschreibung">Erleben Sie mit UHD1 by Astra / HD+ die Faszination beeindruckender Filme in brillanter UHD-Qualitaet aus den Bereichen Doku, Lifestyle und Action.</text>
+			</sendung>
+			<sendung sendung_id="5083835">
+				<termin ende="2024-12-21T19:45:00" nettolaenge="120" reihenfolge="5" start="2024-12-21T17:45:00" programmtag="2024-12-21" termin_id="5083835" termintyp="neu">
+				</termin>
+				<titel termintitel="Sendepause">
+				</titel>
+				<infos>
+					<klassifizierung formatgruppe ="Sonstiges">
+					</klassifizierung>
+				</infos>
+				<text textart="Beschreibung">Bald geht es hier weiter mit den Highlights der Sender ProSieben, SAT.1, Kabel Eins, ProSieben MAXX und Kabel Eins Doku in bester UHD-Qualitaet.
+Naehere Information unter prosiebensat1.de/uhd</text>
+			</sendung>
+			<sendung sendung_id="5083836">
+				<termin ende="2024-12-21T20:00:00" nettolaenge="15" reihenfolge="6" start="2024-12-21T19:45:00" programmtag="2024-12-21" termin_id="5083836" termintyp="neu">
+				</termin>
+				<titel termintitel="Free Fenster">
+				</titel>
+				<infos>
+					<klassifizierung formatgruppe ="Sonstiges">
+					</klassifizierung>
+				</infos>
+				<text textart="Beschreibung">Erleben Sie mit UHD1 by Astra / HD+ die Faszination beeindruckender Filme in brillanter UHD-Qualitaet aus den Bereichen Doku, Lifestyle und Action.</text>
+			</sendung>
+			<sendung sendung_id="122_">
+				<termin ende="2024-12-21T20:25:00" nettolaenge="26" reihenfolge="7" start="2024-12-21T20:00:00" programmtag="2024-12-21" termin_id="5083869" termintyp="neu">
+				</termin>
+				<titel termintitel="Tomorrowland Movie">
+				<alias titelart="originaltitel" aliastitel="Tomorrowland Movie" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="26"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="168_">
+				<termin ende="2024-12-21T20:45:00" nettolaenge="23" reihenfolge="8" start="2024-12-21T20:25:00" programmtag="2024-12-21" termin_id="5083870" termintyp="neu">
+				</termin>
+				<titel termintitel="Tomorrowland 2018 Aftermovie_1">
+				<alias titelart="originaltitel" aliastitel="Tomorrowland 2018 Aftermovie_1" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="23"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="096_">
+				<termin ende="2024-12-21T21:00:00" nettolaenge="15" reihenfolge="9" start="2024-12-21T20:45:00" programmtag="2024-12-21" termin_id="5083871" termintyp="neu">
+				</termin>
+				<titel termintitel="Red Bull Flying Bach">
+				<alias titelart="originaltitel" aliastitel="Red Bull Flying Bach" />
+				<alias titelart="untertitel" aliastitel="Breakdance - Zwischen Hip-Hop und Klassik" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="15"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Tanzlehrer Fabio Schmitt und sein Schueler Kadir Hoffmann lieben Breakdance. Und Kadir, der gerade erst die sechste Klasse besucht, ist talentiert - so talentiert, dass er spaeter gerne Profi werden moechte. Dieser Wunsch verstaerkt sich nochmal als die beiden zusammen die Berliner Breakdance-Combo &apos;Flying Steps&apos; in Wiesbaden bei einer ihrer &apos;Flying Bach&apos;-Shows besuchen. &apos;Flying Bach&apos; vereint Breakdance mit klassischer Musik und kreiert so eine komplett neue Show, die nicht nur Kadir und Fabio Schmitt zutiefst beeindruckt. </text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="085_">
+				<termin ende="2024-12-21T21:05:00" nettolaenge="4" reihenfolge="10" start="2024-12-21T21:00:00" programmtag="2024-12-21" termin_id="5083872" termintyp="neu">
+				</termin>
+				<titel termintitel="Moglis Jungle Teil 1">
+				<alias titelart="originaltitel" aliastitel="Moglis Jungle Teil 1" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="4"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="083_">
+				<termin ende="2024-12-21T21:15:00" nettolaenge="6" reihenfolge="11" start="2024-12-21T21:05:00" programmtag="2024-12-21" termin_id="5083873" termintyp="neu">
+				</termin>
+				<titel termintitel="Moglis Jungle Teil 2">
+				<alias titelart="originaltitel" aliastitel="Moglis Jungle Teil 2" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="6"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="6090_">
+				<termin ende="2024-12-21T22:05:00" nettolaenge="55" reihenfolge="12" start="2024-12-21T21:15:00" programmtag="2024-12-21" termin_id="5083874" termintyp="neu">
+				</termin>
+				<titel termintitel="Im Herzen von Amerika (Folge 1)">
+				<alias titelart="originaltitel" aliastitel="Im Herzen von Amerika (Folge 1)" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="52"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Doku-Highlight</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="6091_">
+				<termin ende="2024-12-21T22:55:00" nettolaenge="52" reihenfolge="13" start="2024-12-21T22:05:00" programmtag="2024-12-21" termin_id="5083875" termintyp="neu">
+				</termin>
+				<titel termintitel="Im Herzen von Amerika (Folge 2)">
+				<alias titelart="originaltitel" aliastitel="Im Herzen von Amerika (Folge 2)" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="52"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Doku-Highlight</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="038_">
+				<termin ende="2024-12-21T23:10:00" nettolaenge="20" reihenfolge="14" start="2024-12-21T22:55:00" programmtag="2024-12-21" termin_id="5083876" termintyp="neu">
+				</termin>
+				<titel termintitel="Der Weg nach oben">
+				<alias titelart="originaltitel" aliastitel="Der Weg nach oben" />
+				<alias titelart="untertitel" aliastitel="Athelten und Athletinnen des DAV" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="20"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Klettern wird olympisch! Bereits ab 2020 werden die Athleten und Athletinnen mit dabei sein und ihren Weg nach oben antreten. Natuerlich wird bereits jetzt mit den Vorbereitungen begonnen und jede Moeglichkeit zum Training oder der Teilnahme an einen Wettkampf wahrgenommen. UHD1 by HD+ hat die Kaderathleten und -athletinnen des Deutschen Alpenvereins (DAV) waehrend der Vorbereitungen im Zillertal und beim Boulder-Weltcup in Muenchen begleitet. Entstanden ist eine spannende Dokumentation ueber eine faszinierende Disziplin und beeindruckende, junge Sportler und Sportlerinnen - die potentiellen Stars von Tokyo 2020 eben!</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="5083838">
+				<termin ende="2024-12-22T02:00:00" nettolaenge="170" reihenfolge="15" start="2024-12-21T23:10:00" programmtag="2024-12-21" termin_id="5083838" termintyp="neu">
+				</termin>
+				<titel termintitel="Sendepause">
+				</titel>
+				<infos>
+					<klassifizierung formatgruppe ="Sonstiges">
+					</klassifizierung>
+				</infos>
+				<text textart="Beschreibung">Bald geht es hier weiter mit den Highlights der Sender ProSieben, SAT.1, Kabel Eins, ProSieben MAXX und Kabel Eins Doku in bester UHD-Qualitaet.
+Naehere Information unter prosiebensat1.de/uhd</text>
+			</sendung>
+			<sendung sendung_id="5083839">
+				<termin ende="2024-12-22T08:00:00" nettolaenge="360" reihenfolge="16" start="2024-12-22T02:00:00" programmtag="2024-12-22" termin_id="5083839" termintyp="neu">
+				</termin>
+				<titel termintitel="Nachtschleife">
+				</titel>
+				<infos>
+					<klassifizierung formatgruppe ="Sonstiges">
+					</klassifizierung>
+				</infos>
+				<text textart="Beschreibung">Erleben Sie mit UHD1 by HD+ die Faszination von UHD. GenieSSen Sie ab 00:00 Uhr die intensive Farbenpracht eines Feuerwerks oder auch das beruhigende Knistern zuengelnder Flammen eines Kaminfeuers in beeindruckender UHD-Qualitaet.</text>
+			</sendung>
+			<sendung sendung_id="5084080">
+				<termin ende="2024-12-22T14:00:00" nettolaenge="360" reihenfolge="17" start="2024-12-22T08:00:00" programmtag="2024-12-22" termin_id="5084080" termintyp="neu">
+				</termin>
+				<titel termintitel="Free Fenster">
+				</titel>
+				<infos>
+					<klassifizierung formatgruppe ="Sonstiges">
+					</klassifizierung>
+				</infos>
+				<text textart="Beschreibung">Erleben Sie mit UHD1 by Astra / HD+ die Faszination beeindruckender Filme in brillanter UHD-Qualitaet aus den Bereichen Doku, Lifestyle und Action.</text>
+			</sendung>
+			<sendung sendung_id="122_">
+				<termin ende="2024-12-22T14:25:00" nettolaenge="26" reihenfolge="18" start="2024-12-22T14:00:00" programmtag="2024-12-22" termin_id="5084102" termintyp="neu">
+				</termin>
+				<titel termintitel="Tomorrowland Movie">
+				<alias titelart="originaltitel" aliastitel="Tomorrowland Movie" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="26"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="6090_">
+				<termin ende="2024-12-22T15:15:00" nettolaenge="55" reihenfolge="19" start="2024-12-22T14:25:00" programmtag="2024-12-22" termin_id="5084103" termintyp="neu">
+				</termin>
+				<titel termintitel="Im Herzen von Amerika (Folge 1)">
+				<alias titelart="originaltitel" aliastitel="Im Herzen von Amerika (Folge 1)" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="52"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Doku-Highlight</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="6092_">
+				<termin ende="2024-12-22T16:00:00" nettolaenge="55" reihenfolge="20" start="2024-12-22T15:15:00" programmtag="2024-12-22" termin_id="5084104" termintyp="neu">
+				</termin>
+				<titel termintitel="Patagonia - Land der Pioniere">
+				<alias titelart="originaltitel" aliastitel="Patagonia - Land der Pioniere" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="43"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Doku-Highlight</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="168_">
+				<termin ende="2024-12-22T16:25:00" nettolaenge="23" reihenfolge="21" start="2024-12-22T16:00:00" programmtag="2024-12-22" termin_id="5084105" termintyp="neu">
+				</termin>
+				<titel termintitel="Tomorrowland 2018 Aftermovie_1">
+				<alias titelart="originaltitel" aliastitel="Tomorrowland 2018 Aftermovie_1" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="23"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="096_">
+				<termin ende="2024-12-22T16:40:00" nettolaenge="15" reihenfolge="22" start="2024-12-22T16:25:00" programmtag="2024-12-22" termin_id="5084106" termintyp="neu">
+				</termin>
+				<titel termintitel="Red Bull Flying Bach">
+				<alias titelart="originaltitel" aliastitel="Red Bull Flying Bach" />
+				<alias titelart="untertitel" aliastitel="Breakdance - Zwischen Hip-Hop und Klassik" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="15"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Tanzlehrer Fabio Schmitt und sein Schueler Kadir Hoffmann lieben Breakdance. Und Kadir, der gerade erst die sechste Klasse besucht, ist talentiert - so talentiert, dass er spaeter gerne Profi werden moechte. Dieser Wunsch verstaerkt sich nochmal als die beiden zusammen die Berliner Breakdance-Combo &apos;Flying Steps&apos; in Wiesbaden bei einer ihrer &apos;Flying Bach&apos;-Shows besuchen. &apos;Flying Bach&apos; vereint Breakdance mit klassischer Musik und kreiert so eine komplett neue Show, die nicht nur Kadir und Fabio Schmitt zutiefst beeindruckt. </text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="085_">
+				<termin ende="2024-12-22T16:45:00" nettolaenge="4" reihenfolge="23" start="2024-12-22T16:40:00" programmtag="2024-12-22" termin_id="5084107" termintyp="neu">
+				</termin>
+				<titel termintitel="Moglis Jungle Teil 1">
+				<alias titelart="originaltitel" aliastitel="Moglis Jungle Teil 1" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="4"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="6091_">
+				<termin ende="2024-12-22T17:35:00" nettolaenge="52" reihenfolge="24" start="2024-12-22T16:45:00" programmtag="2024-12-22" termin_id="5084108" termintyp="neu">
+				</termin>
+				<titel termintitel="Im Herzen von Amerika (Folge 2)">
+				<alias titelart="originaltitel" aliastitel="Im Herzen von Amerika (Folge 2)" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="52"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Doku-Highlight</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="6092_">
+				<termin ende="2024-12-22T18:20:00" nettolaenge="55" reihenfolge="25" start="2024-12-22T17:35:00" programmtag="2024-12-22" termin_id="5084109" termintyp="neu">
+				</termin>
+				<titel termintitel="Patagonia - Land der Pioniere">
+				<alias titelart="originaltitel" aliastitel="Patagonia - Land der Pioniere" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="43"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Doku-Highlight</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="083_">
+				<termin ende="2024-12-22T18:25:00" nettolaenge="6" reihenfolge="26" start="2024-12-22T18:20:00" programmtag="2024-12-22" termin_id="5084110" termintyp="neu">
+				</termin>
+				<titel termintitel="Moglis Jungle Teil 2">
+				<alias titelart="originaltitel" aliastitel="Moglis Jungle Teil 2" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="6"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="084_">
+				<termin ende="2024-12-22T18:30:00" nettolaenge="7" reihenfolge="27" start="2024-12-22T18:25:00" programmtag="2024-12-22" termin_id="5084111" termintyp="neu">
+				</termin>
+				<titel termintitel="Moglis Jungle Teil 3">
+				<alias titelart="originaltitel" aliastitel="Moglis Jungle Teil 3" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="7"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="6092_">
+				<termin ende="2024-12-22T19:15:00" nettolaenge="55" reihenfolge="28" start="2024-12-22T18:30:00" programmtag="2024-12-22" termin_id="5084112" termintyp="neu">
+				</termin>
+				<titel termintitel="Patagonia - Land der Pioniere">
+				<alias titelart="originaltitel" aliastitel="Patagonia - Land der Pioniere" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="43"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Doku-Highlight</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="6090_">
+				<termin ende="2024-12-22T20:05:00" nettolaenge="55" reihenfolge="29" start="2024-12-22T19:15:00" programmtag="2024-12-22" termin_id="5084113" termintyp="neu">
+				</termin>
+				<titel termintitel="Im Herzen von Amerika (Folge 1)">
+				<alias titelart="originaltitel" aliastitel="Im Herzen von Amerika (Folge 1)" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="52"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Doku-Highlight</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="6091_">
+				<termin ende="2024-12-22T21:00:00" nettolaenge="52" reihenfolge="30" start="2024-12-22T20:05:00" programmtag="2024-12-22" termin_id="5084114" termintyp="neu">
+				</termin>
+				<titel termintitel="Im Herzen von Amerika (Folge 2)">
+				<alias titelart="originaltitel" aliastitel="Im Herzen von Amerika (Folge 2)" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="52"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Doku-Highlight</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="6090_">
+				<termin ende="2024-12-22T21:50:00" nettolaenge="55" reihenfolge="31" start="2024-12-22T21:00:00" programmtag="2024-12-22" termin_id="5084115" termintyp="neu">
+				</termin>
+				<titel termintitel="Im Herzen von Amerika (Folge 1)">
+				<alias titelart="originaltitel" aliastitel="Im Herzen von Amerika (Folge 1)" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="52"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Doku-Highlight</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="6092_">
+				<termin ende="2024-12-22T22:35:00" nettolaenge="55" reihenfolge="32" start="2024-12-22T21:50:00" programmtag="2024-12-22" termin_id="5084116" termintyp="neu">
+				</termin>
+				<titel termintitel="Patagonia - Land der Pioniere">
+				<alias titelart="originaltitel" aliastitel="Patagonia - Land der Pioniere" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="43"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Doku-Highlight</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="6091_">
+				<termin ende="2024-12-22T23:25:00" nettolaenge="52" reihenfolge="33" start="2024-12-22T22:35:00" programmtag="2024-12-22" termin_id="5084117" termintyp="neu">
+				</termin>
+				<titel termintitel="Im Herzen von Amerika (Folge 2)">
+				<alias titelart="originaltitel" aliastitel="Im Herzen von Amerika (Folge 2)" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="52"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Doku-Highlight</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="6092_">
+				<termin ende="2024-12-23T00:00:00" nettolaenge="55" reihenfolge="34" start="2024-12-22T23:25:00" programmtag="2024-12-22" termin_id="5084118" termintyp="neu">
+				</termin>
+				<titel termintitel="Patagonia - Land der Pioniere">
+				<alias titelart="originaltitel" aliastitel="Patagonia - Land der Pioniere" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="43"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Doku-Highlight</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="5084082">
+				<termin ende="2024-12-23T08:00:00" nettolaenge="480" reihenfolge="35" start="2024-12-23T00:00:00" programmtag="2024-12-23" termin_id="5084082" termintyp="neu">
+				</termin>
+				<titel termintitel="Nachtschleife">
+				</titel>
+				<infos>
+					<klassifizierung formatgruppe ="Sonstiges">
+					</klassifizierung>
+				</infos>
+				<text textart="Beschreibung">Erleben Sie mit UHD1 by HD+ die Faszination von UHD. GenieSSen Sie ab 00:00 Uhr die intensive Farbenpracht eines Feuerwerks oder auch das beruhigende Knistern zuengelnder Flammen eines Kaminfeuers in beeindruckender UHD-Qualitaet.</text>
+			</sendung>
+			<sendung sendung_id="5085148">
+				<termin ende="2024-12-23T20:00:00" nettolaenge="720" reihenfolge="36" start="2024-12-23T08:00:00" programmtag="2024-12-23" termin_id="5085148" termintyp="neu">
+				</termin>
+				<titel termintitel="Free Fenster">
+				</titel>
+				<infos>
+					<klassifizierung formatgruppe ="Sonstiges">
+					</klassifizierung>
+				</infos>
+				<text textart="Beschreibung">Erleben Sie mit UHD1 by Astra / HD+ die Faszination beeindruckender Filme in brillanter UHD-Qualitaet aus den Bereichen Doku, Lifestyle und Action.</text>
+			</sendung>
+			<sendung sendung_id="122_">
+				<termin ende="2024-12-23T20:25:00" nettolaenge="26" reihenfolge="37" start="2024-12-23T20:00:00" programmtag="2024-12-23" termin_id="5085174" termintyp="neu">
+				</termin>
+				<titel termintitel="Tomorrowland Movie">
+				<alias titelart="originaltitel" aliastitel="Tomorrowland Movie" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="26"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="168_">
+				<termin ende="2024-12-23T20:45:00" nettolaenge="23" reihenfolge="38" start="2024-12-23T20:25:00" programmtag="2024-12-23" termin_id="5085175" termintyp="neu">
+				</termin>
+				<titel termintitel="Tomorrowland 2018 Aftermovie_1">
+				<alias titelart="originaltitel" aliastitel="Tomorrowland 2018 Aftermovie_1" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="23"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="096_">
+				<termin ende="2024-12-23T21:00:00" nettolaenge="15" reihenfolge="39" start="2024-12-23T20:45:00" programmtag="2024-12-23" termin_id="5085176" termintyp="neu">
+				</termin>
+				<titel termintitel="Red Bull Flying Bach">
+				<alias titelart="originaltitel" aliastitel="Red Bull Flying Bach" />
+				<alias titelart="untertitel" aliastitel="Breakdance - Zwischen Hip-Hop und Klassik" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="15"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Tanzlehrer Fabio Schmitt und sein Schueler Kadir Hoffmann lieben Breakdance. Und Kadir, der gerade erst die sechste Klasse besucht, ist talentiert - so talentiert, dass er spaeter gerne Profi werden moechte. Dieser Wunsch verstaerkt sich nochmal als die beiden zusammen die Berliner Breakdance-Combo &apos;Flying Steps&apos; in Wiesbaden bei einer ihrer &apos;Flying Bach&apos;-Shows besuchen. &apos;Flying Bach&apos; vereint Breakdance mit klassischer Musik und kreiert so eine komplett neue Show, die nicht nur Kadir und Fabio Schmitt zutiefst beeindruckt. </text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="085_">
+				<termin ende="2024-12-23T21:05:00" nettolaenge="4" reihenfolge="40" start="2024-12-23T21:00:00" programmtag="2024-12-23" termin_id="5085177" termintyp="neu">
+				</termin>
+				<titel termintitel="Moglis Jungle Teil 1">
+				<alias titelart="originaltitel" aliastitel="Moglis Jungle Teil 1" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="4"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="083_">
+				<termin ende="2024-12-23T21:15:00" nettolaenge="6" reihenfolge="41" start="2024-12-23T21:05:00" programmtag="2024-12-23" termin_id="5085178" termintyp="neu">
+				</termin>
+				<titel termintitel="Moglis Jungle Teil 2">
+				<alias titelart="originaltitel" aliastitel="Moglis Jungle Teil 2" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="6"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="084_">
+				<termin ende="2024-12-23T21:20:00" nettolaenge="7" reihenfolge="42" start="2024-12-23T21:15:00" programmtag="2024-12-23" termin_id="5085179" termintyp="neu">
+				</termin>
+				<titel termintitel="Moglis Jungle Teil 3">
+				<alias titelart="originaltitel" aliastitel="Moglis Jungle Teil 3" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="7"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="6091_">
+				<termin ende="2024-12-23T22:10:00" nettolaenge="52" reihenfolge="43" start="2024-12-23T21:20:00" programmtag="2024-12-23" termin_id="5085180" termintyp="neu">
+				</termin>
+				<titel termintitel="Im Herzen von Amerika (Folge 2)">
+				<alias titelart="originaltitel" aliastitel="Im Herzen von Amerika (Folge 2)" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="52"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Doku-Highlight</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="6090_">
+				<termin ende="2024-12-23T23:05:00" nettolaenge="55" reihenfolge="44" start="2024-12-23T22:10:00" programmtag="2024-12-23" termin_id="5085181" termintyp="neu">
+				</termin>
+				<titel termintitel="Im Herzen von Amerika (Folge 1)">
+				<alias titelart="originaltitel" aliastitel="Im Herzen von Amerika (Folge 1)" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="52"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Doku-Highlight</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="038_">
+				<termin ende="2024-12-23T23:25:00" nettolaenge="20" reihenfolge="45" start="2024-12-23T23:05:00" programmtag="2024-12-23" termin_id="5085182" termintyp="neu">
+				</termin>
+				<titel termintitel="Der Weg nach oben">
+				<alias titelart="originaltitel" aliastitel="Der Weg nach oben" />
+				<alias titelart="untertitel" aliastitel="Athelten und Athletinnen des DAV" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="20"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Klettern wird olympisch! Bereits ab 2020 werden die Athleten und Athletinnen mit dabei sein und ihren Weg nach oben antreten. Natuerlich wird bereits jetzt mit den Vorbereitungen begonnen und jede Moeglichkeit zum Training oder der Teilnahme an einen Wettkampf wahrgenommen. UHD1 by HD+ hat die Kaderathleten und -athletinnen des Deutschen Alpenvereins (DAV) waehrend der Vorbereitungen im Zillertal und beim Boulder-Weltcup in Muenchen begleitet. Entstanden ist eine spannende Dokumentation ueber eine faszinierende Disziplin und beeindruckende, junge Sportler und Sportlerinnen - die potentiellen Stars von Tokyo 2020 eben!</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="6092_">
+				<termin ende="2024-12-24T00:00:00" nettolaenge="55" reihenfolge="46" start="2024-12-23T23:25:00" programmtag="2024-12-23" termin_id="5085183" termintyp="neu">
+				</termin>
+				<titel termintitel="Patagonia - Land der Pioniere">
+				<alias titelart="originaltitel" aliastitel="Patagonia - Land der Pioniere" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="43"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Doku-Highlight</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="5085150">
+				<termin ende="2024-12-24T08:00:00" nettolaenge="480" reihenfolge="47" start="2024-12-24T00:00:00" programmtag="2024-12-24" termin_id="5085150" termintyp="neu">
+				</termin>
+				<titel termintitel="Nachtschleife">
+				</titel>
+				<infos>
+					<klassifizierung formatgruppe ="Sonstiges">
+					</klassifizierung>
+				</infos>
+				<text textart="Beschreibung">Erleben Sie mit UHD1 by HD+ die Faszination von UHD. GenieSSen Sie ab 00:00 Uhr die intensive Farbenpracht eines Feuerwerks oder auch das beruhigende Knistern zuengelnder Flammen eines Kaminfeuers in beeindruckender UHD-Qualitaet.</text>
+			</sendung>
+			<sendung sendung_id="5085264">
+				<termin ende="2024-12-24T20:00:00" nettolaenge="720" reihenfolge="48" start="2024-12-24T08:00:00" programmtag="2024-12-24" termin_id="5085264" termintyp="neu">
+				</termin>
+				<titel termintitel="Free Fenster">
+				</titel>
+				<infos>
+					<klassifizierung formatgruppe ="Sonstiges">
+					</klassifizierung>
+				</infos>
+				<text textart="Beschreibung">Erleben Sie mit UHD1 by Astra / HD+ die Faszination beeindruckender Filme in brillanter UHD-Qualitaet aus den Bereichen Doku, Lifestyle und Action.</text>
+			</sendung>
+			<sendung sendung_id="122_">
+				<termin ende="2024-12-24T20:25:00" nettolaenge="26" reihenfolge="49" start="2024-12-24T20:00:00" programmtag="2024-12-24" termin_id="5085290" termintyp="neu">
+				</termin>
+				<titel termintitel="Tomorrowland Movie">
+				<alias titelart="originaltitel" aliastitel="Tomorrowland Movie" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="26"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="168_">
+				<termin ende="2024-12-24T20:45:00" nettolaenge="23" reihenfolge="50" start="2024-12-24T20:25:00" programmtag="2024-12-24" termin_id="5085291" termintyp="neu">
+				</termin>
+				<titel termintitel="Tomorrowland 2018 Aftermovie_1">
+				<alias titelart="originaltitel" aliastitel="Tomorrowland 2018 Aftermovie_1" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="23"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="096_">
+				<termin ende="2024-12-24T21:00:00" nettolaenge="15" reihenfolge="51" start="2024-12-24T20:45:00" programmtag="2024-12-24" termin_id="5085292" termintyp="neu">
+				</termin>
+				<titel termintitel="Red Bull Flying Bach">
+				<alias titelart="originaltitel" aliastitel="Red Bull Flying Bach" />
+				<alias titelart="untertitel" aliastitel="Breakdance - Zwischen Hip-Hop und Klassik" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="15"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Tanzlehrer Fabio Schmitt und sein Schueler Kadir Hoffmann lieben Breakdance. Und Kadir, der gerade erst die sechste Klasse besucht, ist talentiert - so talentiert, dass er spaeter gerne Profi werden moechte. Dieser Wunsch verstaerkt sich nochmal als die beiden zusammen die Berliner Breakdance-Combo &apos;Flying Steps&apos; in Wiesbaden bei einer ihrer &apos;Flying Bach&apos;-Shows besuchen. &apos;Flying Bach&apos; vereint Breakdance mit klassischer Musik und kreiert so eine komplett neue Show, die nicht nur Kadir und Fabio Schmitt zutiefst beeindruckt. </text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="085_">
+				<termin ende="2024-12-24T21:05:00" nettolaenge="4" reihenfolge="52" start="2024-12-24T21:00:00" programmtag="2024-12-24" termin_id="5085293" termintyp="neu">
+				</termin>
+				<titel termintitel="Moglis Jungle Teil 1">
+				<alias titelart="originaltitel" aliastitel="Moglis Jungle Teil 1" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="4"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="083_">
+				<termin ende="2024-12-24T21:15:00" nettolaenge="6" reihenfolge="53" start="2024-12-24T21:05:00" programmtag="2024-12-24" termin_id="5085294" termintyp="neu">
+				</termin>
+				<titel termintitel="Moglis Jungle Teil 2">
+				<alias titelart="originaltitel" aliastitel="Moglis Jungle Teil 2" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="6"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="084_">
+				<termin ende="2024-12-24T21:20:00" nettolaenge="7" reihenfolge="54" start="2024-12-24T21:15:00" programmtag="2024-12-24" termin_id="5085295" termintyp="neu">
+				</termin>
+				<titel termintitel="Moglis Jungle Teil 3">
+				<alias titelart="originaltitel" aliastitel="Moglis Jungle Teil 3" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="7"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="6091_">
+				<termin ende="2024-12-24T22:10:00" nettolaenge="52" reihenfolge="55" start="2024-12-24T21:20:00" programmtag="2024-12-24" termin_id="5085296" termintyp="neu">
+				</termin>
+				<titel termintitel="Im Herzen von Amerika (Folge 2)">
+				<alias titelart="originaltitel" aliastitel="Im Herzen von Amerika (Folge 2)" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="52"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Doku-Highlight</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="6090_">
+				<termin ende="2024-12-24T23:05:00" nettolaenge="55" reihenfolge="56" start="2024-12-24T22:10:00" programmtag="2024-12-24" termin_id="5085297" termintyp="neu">
+				</termin>
+				<titel termintitel="Im Herzen von Amerika (Folge 1)">
+				<alias titelart="originaltitel" aliastitel="Im Herzen von Amerika (Folge 1)" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="52"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Doku-Highlight</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="038_">
+				<termin ende="2024-12-24T23:25:00" nettolaenge="20" reihenfolge="57" start="2024-12-24T23:05:00" programmtag="2024-12-24" termin_id="5085298" termintyp="neu">
+				</termin>
+				<titel termintitel="Der Weg nach oben">
+				<alias titelart="originaltitel" aliastitel="Der Weg nach oben" />
+				<alias titelart="untertitel" aliastitel="Athelten und Athletinnen des DAV" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="20"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Klettern wird olympisch! Bereits ab 2020 werden die Athleten und Athletinnen mit dabei sein und ihren Weg nach oben antreten. Natuerlich wird bereits jetzt mit den Vorbereitungen begonnen und jede Moeglichkeit zum Training oder der Teilnahme an einen Wettkampf wahrgenommen. UHD1 by HD+ hat die Kaderathleten und -athletinnen des Deutschen Alpenvereins (DAV) waehrend der Vorbereitungen im Zillertal und beim Boulder-Weltcup in Muenchen begleitet. Entstanden ist eine spannende Dokumentation ueber eine faszinierende Disziplin und beeindruckende, junge Sportler und Sportlerinnen - die potentiellen Stars von Tokyo 2020 eben!</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="6092_">
+				<termin ende="2024-12-25T00:00:00" nettolaenge="55" reihenfolge="58" start="2024-12-24T23:25:00" programmtag="2024-12-24" termin_id="5085299" termintyp="neu">
+				</termin>
+				<titel termintitel="Patagonia - Land der Pioniere">
+				<alias titelart="originaltitel" aliastitel="Patagonia - Land der Pioniere" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="43"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Doku-Highlight</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="5085997">
+				<termin ende="2024-12-25T03:55:00" nettolaenge="235" reihenfolge="59" start="2024-12-25T00:00:00" programmtag="2024-12-25" termin_id="5085997" termintyp="neu">
+				</termin>
+				<titel termintitel="Nachtschleife">
+				</titel>
+				<infos>
+					<klassifizierung formatgruppe ="Sonstiges">
+					</klassifizierung>
+				</infos>
+				<text textart="Beschreibung">Erleben Sie mit UHD1 by HD+ die Faszination von UHD. GenieSSen Sie ab 00:00 Uhr die intensive Farbenpracht eines Feuerwerks oder auch das beruhigende Knistern zuengelnder Flammen eines Kaminfeuers in beeindruckender UHD-Qualitaet.</text>
+			</sendung>
+			<sendung sendung_id="5085998">
+				<termin ende="2024-12-25T05:10:00" nettolaenge="75" reihenfolge="60" start="2024-12-25T03:55:00" programmtag="2024-12-25" termin_id="5085998" termintyp="neu">
+				</termin>
+				<titel termintitel="Sendepause">
+				</titel>
+				<infos>
+					<klassifizierung formatgruppe ="Sonstiges">
+					</klassifizierung>
+				</infos>
+				<text textart="Beschreibung">Bald geht es hier weiter mit den Highlights der Sender ProSieben, SAT.1, Kabel Eins, ProSieben MAXX und Kabel Eins Doku in bester UHD-Qualitaet.
+Naehere Information unter prosiebensat1.de/uhd</text>
+			</sendung>
+			<sendung sendung_id="5085999">
+				<termin ende="2024-12-25T08:00:00" nettolaenge="170" reihenfolge="61" start="2024-12-25T05:10:00" programmtag="2024-12-25" termin_id="5085999" termintyp="neu">
+				</termin>
+				<titel termintitel="Nachtschleife">
+				</titel>
+				<infos>
+					<klassifizierung formatgruppe ="Sonstiges">
+					</klassifizierung>
+				</infos>
+				<text textart="Beschreibung">Erleben Sie mit UHD1 by HD+ die Faszination von UHD. GenieSSen Sie ab 00:00 Uhr die intensive Farbenpracht eines Feuerwerks oder auch das beruhigende Knistern zuengelnder Flammen eines Kaminfeuers in beeindruckender UHD-Qualitaet.</text>
+			</sendung>
+			<sendung sendung_id="5085380">
+				<termin ende="2024-12-25T20:00:00" nettolaenge="720" reihenfolge="62" start="2024-12-25T08:00:00" programmtag="2024-12-25" termin_id="5085380" termintyp="neu">
+				</termin>
+				<titel termintitel="Free Fenster">
+				</titel>
+				<infos>
+					<klassifizierung formatgruppe ="Sonstiges">
+					</klassifizierung>
+				</infos>
+				<text textart="Beschreibung">Erleben Sie mit UHD1 by Astra / HD+ die Faszination beeindruckender Filme in brillanter UHD-Qualitaet aus den Bereichen Doku, Lifestyle und Action.</text>
+			</sendung>
+			<sendung sendung_id="122_">
+				<termin ende="2024-12-25T20:25:00" nettolaenge="26" reihenfolge="63" start="2024-12-25T20:00:00" programmtag="2024-12-25" termin_id="5085406" termintyp="neu">
+				</termin>
+				<titel termintitel="Tomorrowland Movie">
+				<alias titelart="originaltitel" aliastitel="Tomorrowland Movie" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="26"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="168_">
+				<termin ende="2024-12-25T20:45:00" nettolaenge="23" reihenfolge="64" start="2024-12-25T20:25:00" programmtag="2024-12-25" termin_id="5085407" termintyp="neu">
+				</termin>
+				<titel termintitel="Tomorrowland 2018 Aftermovie_1">
+				<alias titelart="originaltitel" aliastitel="Tomorrowland 2018 Aftermovie_1" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="23"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="096_">
+				<termin ende="2024-12-25T21:00:00" nettolaenge="15" reihenfolge="65" start="2024-12-25T20:45:00" programmtag="2024-12-25" termin_id="5085408" termintyp="neu">
+				</termin>
+				<titel termintitel="Red Bull Flying Bach">
+				<alias titelart="originaltitel" aliastitel="Red Bull Flying Bach" />
+				<alias titelart="untertitel" aliastitel="Breakdance - Zwischen Hip-Hop und Klassik" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="15"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Tanzlehrer Fabio Schmitt und sein Schueler Kadir Hoffmann lieben Breakdance. Und Kadir, der gerade erst die sechste Klasse besucht, ist talentiert - so talentiert, dass er spaeter gerne Profi werden moechte. Dieser Wunsch verstaerkt sich nochmal als die beiden zusammen die Berliner Breakdance-Combo &apos;Flying Steps&apos; in Wiesbaden bei einer ihrer &apos;Flying Bach&apos;-Shows besuchen. &apos;Flying Bach&apos; vereint Breakdance mit klassischer Musik und kreiert so eine komplett neue Show, die nicht nur Kadir und Fabio Schmitt zutiefst beeindruckt. </text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="085_">
+				<termin ende="2024-12-25T21:05:00" nettolaenge="4" reihenfolge="66" start="2024-12-25T21:00:00" programmtag="2024-12-25" termin_id="5085409" termintyp="neu">
+				</termin>
+				<titel termintitel="Moglis Jungle Teil 1">
+				<alias titelart="originaltitel" aliastitel="Moglis Jungle Teil 1" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="4"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="083_">
+				<termin ende="2024-12-25T21:15:00" nettolaenge="6" reihenfolge="67" start="2024-12-25T21:05:00" programmtag="2024-12-25" termin_id="5085410" termintyp="neu">
+				</termin>
+				<titel termintitel="Moglis Jungle Teil 2">
+				<alias titelart="originaltitel" aliastitel="Moglis Jungle Teil 2" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="6"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="084_">
+				<termin ende="2024-12-25T21:20:00" nettolaenge="7" reihenfolge="68" start="2024-12-25T21:15:00" programmtag="2024-12-25" termin_id="5085411" termintyp="neu">
+				</termin>
+				<titel termintitel="Moglis Jungle Teil 3">
+				<alias titelart="originaltitel" aliastitel="Moglis Jungle Teil 3" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="7"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="6091_">
+				<termin ende="2024-12-25T22:10:00" nettolaenge="52" reihenfolge="69" start="2024-12-25T21:20:00" programmtag="2024-12-25" termin_id="5085412" termintyp="neu">
+				</termin>
+				<titel termintitel="Im Herzen von Amerika (Folge 2)">
+				<alias titelart="originaltitel" aliastitel="Im Herzen von Amerika (Folge 2)" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="52"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Doku-Highlight</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="6090_">
+				<termin ende="2024-12-25T23:05:00" nettolaenge="55" reihenfolge="70" start="2024-12-25T22:10:00" programmtag="2024-12-25" termin_id="5085413" termintyp="neu">
+				</termin>
+				<titel termintitel="Im Herzen von Amerika (Folge 1)">
+				<alias titelart="originaltitel" aliastitel="Im Herzen von Amerika (Folge 1)" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="52"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Doku-Highlight</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="038_">
+				<termin ende="2024-12-25T23:25:00" nettolaenge="20" reihenfolge="71" start="2024-12-25T23:05:00" programmtag="2024-12-25" termin_id="5085414" termintyp="neu">
+				</termin>
+				<titel termintitel="Der Weg nach oben">
+				<alias titelart="originaltitel" aliastitel="Der Weg nach oben" />
+				<alias titelart="untertitel" aliastitel="Athelten und Athletinnen des DAV" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="20"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Klettern wird olympisch! Bereits ab 2020 werden die Athleten und Athletinnen mit dabei sein und ihren Weg nach oben antreten. Natuerlich wird bereits jetzt mit den Vorbereitungen begonnen und jede Moeglichkeit zum Training oder der Teilnahme an einen Wettkampf wahrgenommen. UHD1 by HD+ hat die Kaderathleten und -athletinnen des Deutschen Alpenvereins (DAV) waehrend der Vorbereitungen im Zillertal und beim Boulder-Weltcup in Muenchen begleitet. Entstanden ist eine spannende Dokumentation ueber eine faszinierende Disziplin und beeindruckende, junge Sportler und Sportlerinnen - die potentiellen Stars von Tokyo 2020 eben!</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="6092_">
+				<termin ende="2024-12-26T00:00:00" nettolaenge="55" reihenfolge="72" start="2024-12-25T23:25:00" programmtag="2024-12-25" termin_id="5085415" termintyp="neu">
+				</termin>
+				<titel termintitel="Patagonia - Land der Pioniere">
+				<alias titelart="originaltitel" aliastitel="Patagonia - Land der Pioniere" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="43"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Doku-Highlight</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="5085382">
+				<termin ende="2024-12-26T03:55:00" nettolaenge="235" reihenfolge="73" start="2024-12-26T00:00:00" programmtag="2024-12-26" termin_id="5085382" termintyp="neu">
+				</termin>
+				<titel termintitel="Nachtschleife">
+				</titel>
+				<infos>
+					<klassifizierung formatgruppe ="Sonstiges">
+					</klassifizierung>
+				</infos>
+				<text textart="Beschreibung">Erleben Sie mit UHD1 by HD+ die Faszination von UHD. GenieSSen Sie ab 00:00 Uhr die intensive Farbenpracht eines Feuerwerks oder auch das beruhigende Knistern zuengelnder Flammen eines Kaminfeuers in beeindruckender UHD-Qualitaet.</text>
+			</sendung>
+			<sendung sendung_id="5085921">
+				<termin ende="2024-12-26T05:10:00" nettolaenge="75" reihenfolge="74" start="2024-12-26T03:55:00" programmtag="2024-12-26" termin_id="5085921" termintyp="neu">
+				</termin>
+				<titel termintitel="Sendepause">
+				</titel>
+				<infos>
+					<klassifizierung formatgruppe ="Sonstiges">
+					</klassifizierung>
+				</infos>
+				<text textart="Beschreibung">Bald geht es hier weiter mit den Highlights der Sender ProSieben, SAT.1, Kabel Eins, ProSieben MAXX und Kabel Eins Doku in bester UHD-Qualitaet.
+Naehere Information unter prosiebensat1.de/uhd</text>
+			</sendung>
+			<sendung sendung_id="5085922">
+				<termin ende="2024-12-26T08:00:00" nettolaenge="170" reihenfolge="75" start="2024-12-26T05:10:00" programmtag="2024-12-26" termin_id="5085922" termintyp="neu">
+				</termin>
+				<titel termintitel="Nachtschleife">
+				</titel>
+				<infos>
+					<klassifizierung formatgruppe ="Sonstiges">
+					</klassifizierung>
+				</infos>
+				<text textart="Beschreibung">Erleben Sie mit UHD1 by HD+ die Faszination von UHD. GenieSSen Sie ab 00:00 Uhr die intensive Farbenpracht eines Feuerwerks oder auch das beruhigende Knistern zuengelnder Flammen eines Kaminfeuers in beeindruckender UHD-Qualitaet.</text>
+			</sendung>
+			<sendung sendung_id="5085496">
+				<termin ende="2024-12-26T20:00:00" nettolaenge="720" reihenfolge="76" start="2024-12-26T08:00:00" programmtag="2024-12-26" termin_id="5085496" termintyp="neu">
+				</termin>
+				<titel termintitel="Free Fenster">
+				</titel>
+				<infos>
+					<klassifizierung formatgruppe ="Sonstiges">
+					</klassifizierung>
+				</infos>
+				<text textart="Beschreibung">Erleben Sie mit UHD1 by Astra / HD+ die Faszination beeindruckender Filme in brillanter UHD-Qualitaet aus den Bereichen Doku, Lifestyle und Action.</text>
+			</sendung>
+			<sendung sendung_id="122_">
+				<termin ende="2024-12-26T20:25:00" nettolaenge="26" reihenfolge="77" start="2024-12-26T20:00:00" programmtag="2024-12-26" termin_id="5085522" termintyp="neu">
+				</termin>
+				<titel termintitel="Tomorrowland Movie">
+				<alias titelart="originaltitel" aliastitel="Tomorrowland Movie" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="26"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="168_">
+				<termin ende="2024-12-26T20:45:00" nettolaenge="23" reihenfolge="78" start="2024-12-26T20:25:00" programmtag="2024-12-26" termin_id="5085523" termintyp="neu">
+				</termin>
+				<titel termintitel="Tomorrowland 2018 Aftermovie_1">
+				<alias titelart="originaltitel" aliastitel="Tomorrowland 2018 Aftermovie_1" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="23"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="096_">
+				<termin ende="2024-12-26T21:00:00" nettolaenge="15" reihenfolge="79" start="2024-12-26T20:45:00" programmtag="2024-12-26" termin_id="5085524" termintyp="neu">
+				</termin>
+				<titel termintitel="Red Bull Flying Bach">
+				<alias titelart="originaltitel" aliastitel="Red Bull Flying Bach" />
+				<alias titelart="untertitel" aliastitel="Breakdance - Zwischen Hip-Hop und Klassik" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="15"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Tanzlehrer Fabio Schmitt und sein Schueler Kadir Hoffmann lieben Breakdance. Und Kadir, der gerade erst die sechste Klasse besucht, ist talentiert - so talentiert, dass er spaeter gerne Profi werden moechte. Dieser Wunsch verstaerkt sich nochmal als die beiden zusammen die Berliner Breakdance-Combo &apos;Flying Steps&apos; in Wiesbaden bei einer ihrer &apos;Flying Bach&apos;-Shows besuchen. &apos;Flying Bach&apos; vereint Breakdance mit klassischer Musik und kreiert so eine komplett neue Show, die nicht nur Kadir und Fabio Schmitt zutiefst beeindruckt. </text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="085_">
+				<termin ende="2024-12-26T21:05:00" nettolaenge="4" reihenfolge="80" start="2024-12-26T21:00:00" programmtag="2024-12-26" termin_id="5085525" termintyp="neu">
+				</termin>
+				<titel termintitel="Moglis Jungle Teil 1">
+				<alias titelart="originaltitel" aliastitel="Moglis Jungle Teil 1" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="4"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="083_">
+				<termin ende="2024-12-26T21:15:00" nettolaenge="6" reihenfolge="81" start="2024-12-26T21:05:00" programmtag="2024-12-26" termin_id="5085526" termintyp="neu">
+				</termin>
+				<titel termintitel="Moglis Jungle Teil 2">
+				<alias titelart="originaltitel" aliastitel="Moglis Jungle Teil 2" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="6"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="084_">
+				<termin ende="2024-12-26T21:20:00" nettolaenge="7" reihenfolge="82" start="2024-12-26T21:15:00" programmtag="2024-12-26" termin_id="5085527" termintyp="neu">
+				</termin>
+				<titel termintitel="Moglis Jungle Teil 3">
+				<alias titelart="originaltitel" aliastitel="Moglis Jungle Teil 3" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="7"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="6091_">
+				<termin ende="2024-12-26T22:10:00" nettolaenge="52" reihenfolge="83" start="2024-12-26T21:20:00" programmtag="2024-12-26" termin_id="5085528" termintyp="neu">
+				</termin>
+				<titel termintitel="Im Herzen von Amerika (Folge 2)">
+				<alias titelart="originaltitel" aliastitel="Im Herzen von Amerika (Folge 2)" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="52"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Doku-Highlight</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="6090_">
+				<termin ende="2024-12-26T23:05:00" nettolaenge="55" reihenfolge="84" start="2024-12-26T22:10:00" programmtag="2024-12-26" termin_id="5085529" termintyp="neu">
+				</termin>
+				<titel termintitel="Im Herzen von Amerika (Folge 1)">
+				<alias titelart="originaltitel" aliastitel="Im Herzen von Amerika (Folge 1)" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="52"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Doku-Highlight</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="038_">
+				<termin ende="2024-12-26T23:25:00" nettolaenge="20" reihenfolge="85" start="2024-12-26T23:05:00" programmtag="2024-12-26" termin_id="5085530" termintyp="neu">
+				</termin>
+				<titel termintitel="Der Weg nach oben">
+				<alias titelart="originaltitel" aliastitel="Der Weg nach oben" />
+				<alias titelart="untertitel" aliastitel="Athelten und Athletinnen des DAV" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="20"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Klettern wird olympisch! Bereits ab 2020 werden die Athleten und Athletinnen mit dabei sein und ihren Weg nach oben antreten. Natuerlich wird bereits jetzt mit den Vorbereitungen begonnen und jede Moeglichkeit zum Training oder der Teilnahme an einen Wettkampf wahrgenommen. UHD1 by HD+ hat die Kaderathleten und -athletinnen des Deutschen Alpenvereins (DAV) waehrend der Vorbereitungen im Zillertal und beim Boulder-Weltcup in Muenchen begleitet. Entstanden ist eine spannende Dokumentation ueber eine faszinierende Disziplin und beeindruckende, junge Sportler und Sportlerinnen - die potentiellen Stars von Tokyo 2020 eben!</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="6092_">
+				<termin ende="2024-12-27T00:00:00" nettolaenge="55" reihenfolge="86" start="2024-12-26T23:25:00" programmtag="2024-12-26" termin_id="5085531" termintyp="neu">
+				</termin>
+				<titel termintitel="Patagonia - Land der Pioniere">
+				<alias titelart="originaltitel" aliastitel="Patagonia - Land der Pioniere" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="43"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Doku-Highlight</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="5085939">
+				<termin ende="2024-12-27T03:55:00" nettolaenge="235" reihenfolge="87" start="2024-12-27T00:00:00" programmtag="2024-12-27" termin_id="5085939" termintyp="neu">
+				</termin>
+				<titel termintitel="Nachtschleife">
+				</titel>
+				<infos>
+					<klassifizierung formatgruppe ="Sonstiges">
+					</klassifizierung>
+				</infos>
+				<text textart="Beschreibung">Erleben Sie mit UHD1 by HD+ die Faszination von UHD. GenieSSen Sie ab 00:00 Uhr die intensive Farbenpracht eines Feuerwerks oder auch das beruhigende Knistern zuengelnder Flammen eines Kaminfeuers in beeindruckender UHD-Qualitaet.</text>
+			</sendung>
+			<sendung sendung_id="5085940">
+				<termin ende="2024-12-27T05:10:00" nettolaenge="75" reihenfolge="88" start="2024-12-27T03:55:00" programmtag="2024-12-27" termin_id="5085940" termintyp="neu">
+				</termin>
+				<titel termintitel="Sendepause">
+				</titel>
+				<infos>
+					<klassifizierung formatgruppe ="Sonstiges">
+					</klassifizierung>
+				</infos>
+				<text textart="Beschreibung">Bald geht es hier weiter mit den Highlights der Sender ProSieben, SAT.1, Kabel Eins, ProSieben MAXX und Kabel Eins Doku in bester UHD-Qualitaet.
+Naehere Information unter prosiebensat1.de/uhd</text>
+			</sendung>
+			<sendung sendung_id="5085941">
+				<termin ende="2024-12-27T08:00:00" nettolaenge="170" reihenfolge="89" start="2024-12-27T05:10:00" programmtag="2024-12-27" termin_id="5085941" termintyp="neu">
+				</termin>
+				<titel termintitel="Nachtschleife">
+				</titel>
+				<infos>
+					<klassifizierung formatgruppe ="Sonstiges">
+					</klassifizierung>
+				</infos>
+				<text textart="Beschreibung">Erleben Sie mit UHD1 by HD+ die Faszination von UHD. GenieSSen Sie ab 00:00 Uhr die intensive Farbenpracht eines Feuerwerks oder auch das beruhigende Knistern zuengelnder Flammen eines Kaminfeuers in beeindruckender UHD-Qualitaet.</text>
+			</sendung>
+			<sendung sendung_id="5085612">
+				<termin ende="2024-12-27T20:00:00" nettolaenge="720" reihenfolge="90" start="2024-12-27T08:00:00" programmtag="2024-12-27" termin_id="5085612" termintyp="neu">
+				</termin>
+				<titel termintitel="Free Fenster">
+				</titel>
+				<infos>
+					<klassifizierung formatgruppe ="Sonstiges">
+					</klassifizierung>
+				</infos>
+				<text textart="Beschreibung">Erleben Sie mit UHD1 by Astra / HD+ die Faszination beeindruckender Filme in brillanter UHD-Qualitaet aus den Bereichen Doku, Lifestyle und Action.</text>
+			</sendung>
+			<sendung sendung_id="122_">
+				<termin ende="2024-12-27T20:25:00" nettolaenge="26" reihenfolge="91" start="2024-12-27T20:00:00" programmtag="2024-12-27" termin_id="5085638" termintyp="neu">
+				</termin>
+				<titel termintitel="Tomorrowland Movie">
+				<alias titelart="originaltitel" aliastitel="Tomorrowland Movie" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="26"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="168_">
+				<termin ende="2024-12-27T20:45:00" nettolaenge="23" reihenfolge="92" start="2024-12-27T20:25:00" programmtag="2024-12-27" termin_id="5085639" termintyp="neu">
+				</termin>
+				<titel termintitel="Tomorrowland 2018 Aftermovie_1">
+				<alias titelart="originaltitel" aliastitel="Tomorrowland 2018 Aftermovie_1" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="23"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="096_">
+				<termin ende="2024-12-27T21:00:00" nettolaenge="15" reihenfolge="93" start="2024-12-27T20:45:00" programmtag="2024-12-27" termin_id="5085640" termintyp="neu">
+				</termin>
+				<titel termintitel="Red Bull Flying Bach">
+				<alias titelart="originaltitel" aliastitel="Red Bull Flying Bach" />
+				<alias titelart="untertitel" aliastitel="Breakdance - Zwischen Hip-Hop und Klassik" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="15"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Tanzlehrer Fabio Schmitt und sein Schueler Kadir Hoffmann lieben Breakdance. Und Kadir, der gerade erst die sechste Klasse besucht, ist talentiert - so talentiert, dass er spaeter gerne Profi werden moechte. Dieser Wunsch verstaerkt sich nochmal als die beiden zusammen die Berliner Breakdance-Combo &apos;Flying Steps&apos; in Wiesbaden bei einer ihrer &apos;Flying Bach&apos;-Shows besuchen. &apos;Flying Bach&apos; vereint Breakdance mit klassischer Musik und kreiert so eine komplett neue Show, die nicht nur Kadir und Fabio Schmitt zutiefst beeindruckt. </text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="085_">
+				<termin ende="2024-12-27T21:05:00" nettolaenge="4" reihenfolge="94" start="2024-12-27T21:00:00" programmtag="2024-12-27" termin_id="5085641" termintyp="neu">
+				</termin>
+				<titel termintitel="Moglis Jungle Teil 1">
+				<alias titelart="originaltitel" aliastitel="Moglis Jungle Teil 1" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="4"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="083_">
+				<termin ende="2024-12-27T21:15:00" nettolaenge="6" reihenfolge="95" start="2024-12-27T21:05:00" programmtag="2024-12-27" termin_id="5085642" termintyp="neu">
+				</termin>
+				<titel termintitel="Moglis Jungle Teil 2">
+				<alias titelart="originaltitel" aliastitel="Moglis Jungle Teil 2" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="6"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="084_">
+				<termin ende="2024-12-27T21:20:00" nettolaenge="7" reihenfolge="96" start="2024-12-27T21:15:00" programmtag="2024-12-27" termin_id="5085643" termintyp="neu">
+				</termin>
+				<titel termintitel="Moglis Jungle Teil 3">
+				<alias titelart="originaltitel" aliastitel="Moglis Jungle Teil 3" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="7"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="6091_">
+				<termin ende="2024-12-27T22:10:00" nettolaenge="52" reihenfolge="97" start="2024-12-27T21:20:00" programmtag="2024-12-27" termin_id="5085644" termintyp="neu">
+				</termin>
+				<titel termintitel="Im Herzen von Amerika (Folge 2)">
+				<alias titelart="originaltitel" aliastitel="Im Herzen von Amerika (Folge 2)" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="52"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Doku-Highlight</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="6090_">
+				<termin ende="2024-12-27T23:05:00" nettolaenge="55" reihenfolge="98" start="2024-12-27T22:10:00" programmtag="2024-12-27" termin_id="5085645" termintyp="neu">
+				</termin>
+				<titel termintitel="Im Herzen von Amerika (Folge 1)">
+				<alias titelart="originaltitel" aliastitel="Im Herzen von Amerika (Folge 1)" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="52"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Doku-Highlight</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="038_">
+				<termin ende="2024-12-27T23:25:00" nettolaenge="20" reihenfolge="99" start="2024-12-27T23:05:00" programmtag="2024-12-27" termin_id="5085646" termintyp="neu">
+				</termin>
+				<titel termintitel="Der Weg nach oben">
+				<alias titelart="originaltitel" aliastitel="Der Weg nach oben" />
+				<alias titelart="untertitel" aliastitel="Athelten und Athletinnen des DAV" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="20"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					<hd vorhanden="true" aufloesung="UHD"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Klettern wird olympisch! Bereits ab 2020 werden die Athleten und Athletinnen mit dabei sein und ihren Weg nach oben antreten. Natuerlich wird bereits jetzt mit den Vorbereitungen begonnen und jede Moeglichkeit zum Training oder der Teilnahme an einen Wettkampf wahrgenommen. UHD1 by HD+ hat die Kaderathleten und -athletinnen des Deutschen Alpenvereins (DAV) waehrend der Vorbereitungen im Zillertal und beim Boulder-Weltcup in Muenchen begleitet. Entstanden ist eine spannende Dokumentation ueber eine faszinierende Disziplin und beeindruckende, junge Sportler und Sportlerinnen - die potentiellen Stars von Tokyo 2020 eben!</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+			<sendung sendung_id="6092_">
+				<termin ende="2024-12-28T00:00:00" nettolaenge="55" reihenfolge="100" start="2024-12-27T23:25:00" programmtag="2024-12-27" termin_id="5085647" termintyp="neu">
+				</termin>
+				<titel termintitel="Patagonia - Land der Pioniere">
+				<alias titelart="originaltitel" aliastitel="Patagonia - Land der Pioniere" />
+				<alias titelart="untertitel" aliastitel="" />
+				</titel>
+				<infos>
+					<produktion gueltigkeit="sendung">
+					</produktion>
+					<klassifizierung kategorie="Sonstiges" formatgruppe ="Sonstiges" hauptgenre="">
+						<genre></genre>
+					</klassifizierung>
+					<originallaenge vhs="43"/>
+					<sonderzeichen>
+					<ton vorhanden="true" art="Stereo"/>
+					</sonderzeichen>
+					<url link="https://www.hd-plus.de/ "/>
+				</infos>
+				<text textart="Beschreibung">Doku-Highlight</text>
+				<text textart="Kurztext"></text>
+			</sendung>
+		</ablauf>
+	</sender>
+</programmdaten>

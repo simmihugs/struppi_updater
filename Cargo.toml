@@ -1,0 +1,13 @@
+[package]
+name = "struppi_updater"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4.38"
+clap = { version = "4.5.21", features = ["derive"] }
+quick-xml = "0.37.1"
+regex = "1.11.1"
+serde = { version = "1.0.215", features = ["derive"] }
+serde-xml-rs = "0.6.0"
+
